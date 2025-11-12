@@ -1,13 +1,12 @@
 # collaborative-git-tutorial
 
-A small repo for students to clone to practice reviewing and merging PRs
+This repo is set up to allow you to practice using Git and Github collaboratively.
 
-Students can clone this repo to learn Git and R together.
-There are 3 R scripts in the `scripts/` directory.
-Each script has a simple data maniputlation operation and a plot.
-All scripts also have a misnamed variable to create a bug for students to fix
+You will find instructions for the exercise in the file `collaborative-practice.pdf`.
+You can follow the notes by reading the raw qmd file or, if you prefer, you may like to render the notes.
 
-This works best for groups of 2 or 3 students where each student fixes one file, makes a PR, and reviews the PR of a different student.
+The instructions below are also included in the pdf, and repeated here for ease of use.
 
-There is a guide for students to follow called `collaborative-git-practice.Rmd`.
-
+One person should __fork__ this repo.  
+Then they should add the rest of their team as __collaborators__.  
+The __entire team__ (including the person that created the fork) should then __clone__ the repo.  
