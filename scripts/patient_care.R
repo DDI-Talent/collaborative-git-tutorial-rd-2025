@@ -19,3 +19,4 @@ ggplot(care_small, aes(score, measure_abbr, fill = facility_name)) +
     x = "Score"
   )
 
+#asd
