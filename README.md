@@ -3,7 +3,6 @@
 This repo is set up to allow you to practice using Git and Github collaboratively.
 
 You will find instructions for the exercise in the file `collaborative-practice.pdf`.
-You can follow the notes by reading the raw qmd file or, if you prefer, you may like to render the notes.
 
 The instructions below are also included in the pdf, and repeated here for ease of use.
 
